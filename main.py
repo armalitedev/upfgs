@@ -113,6 +113,6 @@ def net():
   else:
     print("Error: "+nets+" not an option.")
     sys.exit()
-#blockchain selection
+#network selection
     
 net()
