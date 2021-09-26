@@ -5,8 +5,10 @@
             \__,_| .__/|_|  \__, |___/            Universal Provability-Fair Gambling System
                  |_|        |___/     
                  
+
 **How it works:**\
 ‣ upfgs uses smart contract technologies to ensure a provability fair environment.
+
 
 **Features:**\
 · Cool banner.\
@@ -15,8 +17,8 @@
 
 **Stuff to be added:**\
 · Defi casino interface.\
-· Restricting interactions to Local machine <=> Smart contracts.
-· Bash support.
+· Restricting interactions to Local machine <=> Smart contracts.\
+· Bash support._
 · OS-specific optimizations. 
 
 **Problems to be fixed:**\
@@ -25,6 +27,7 @@
 · Low support (Python CLI).\
 · Unencrypted keys.\
 · Spaghetti code.
+
 
 Major contributors will be added to a (to be made) credits page.\
 Estimated finish date: 2022
