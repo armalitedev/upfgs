@@ -1,11 +1,14 @@
 import os
-clear = lambda: os.system('clear')
-clear()
 import sys
 from web3 import Web3
 from time import sleep
 import random
 import json
+
+
+clear = lambda: os.system('clear')
+clear()
+#clears the terminal ^^
 
 def check():
   print("Looking for config.json file...")
@@ -38,7 +41,8 @@ def check():
     else:
       print("Error: Invalid Web3 key.")
       sys.exit()
-
+#checks for a config.json file and ensures a connection with web3
+      
 check()
 
 def printer():
@@ -60,6 +64,7 @@ def printer():
   sleep(0.4)
   print("                    by armalitedev")
 printer()
+#shows banner
 
 def priva(add):
   sleep(0.4)
@@ -86,7 +91,8 @@ def priva(add):
   else:
     print("Error: "+choice1+" not an option.")
     sys.exit()
-
+#creates a config.json file and makes you enter your private key
+    
 def net():
   sleep(0.4)
   print(" ")
@@ -107,5 +113,6 @@ def net():
   else:
     print("Error: "+nets+" not an option.")
     sys.exit()
-
+#blockchain selection
+    
 net()
