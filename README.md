@@ -5,10 +5,10 @@
             \__,_| .__/|_|  \__, |___/            Universal Provability-Fair Gambling System
                  |_|        |___/     
                  
-How it works:\
+**How it works:\**
 ‣ upfgs uses smart contract technologies to ensure a provability fair environment.
 
-Problems:\
+**Problems:\**
 · Still relies on the Web3 API.\
 · Not functioning.\
 · Low support (python cli).\
