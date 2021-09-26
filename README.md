@@ -10,6 +10,7 @@
 
 **Features:**\
 · Cool banner.\
+· Setup.\
 · Creates a config.json file that stores credentials.
 
 **Problems to be fixed:**\
