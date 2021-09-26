@@ -8,7 +8,7 @@
 
 
 **How it works:**\
-‣ upfgs uses smart contract technologies to ensure a provability fair environment.\
+‣ upfgs uses smart contract technologies to ensure a provability fair environment.
 
 **Features:**\
 · Cool banner.\
