@@ -28,8 +28,7 @@
 · Unencrypted keys.\
 · Spaghetti code.
 
-**Contributors:**\
-_none_
-
-Major contributors will also be added to a (yet to be made) credits page.\
+**It is highly advised to not fork or use for of this app as they
+may steal your credentials.**
+Major contributors will be added to a (yet to be made) credits page.\
 Estimated finish date: 2022
