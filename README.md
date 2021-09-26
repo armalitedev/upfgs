@@ -20,5 +20,5 @@
 · Unencrypted keys.\
 · Spaghetti code.
 
-Major contributors will be added in a (to be made) credits page.\
+Major contributors will be added to a (to be made) credits page.\
 Estimated finish date: 2022
