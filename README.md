@@ -15,7 +15,7 @@
 
 **Stuff to be added:**\
 · Defi casino interface.\
-· Restricting interactions to Local machine <=> Smart contracts
+· Restricting interactions to Local machine <=> Smart contracts.
 
 
 **Problems to be fixed:**\
