@@ -5,4 +5,3 @@
               \__,_| .__/|_|  \__, |___/            Universal Provability-Fair Gambling System
                    |_|        |___/     
                    
-universal provability-fair blockchain-based cli gambling system
