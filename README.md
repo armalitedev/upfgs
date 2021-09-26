@@ -6,12 +6,12 @@
                  |_|        |___/     
                  
 
-**How it works:**\
-‣ upfgs uses smart contract technologies to ensure a provability fair environment.
-
 **It is highly advised to not use any fork of this app as they
 may steal your credentials.**\
 Estimated finish date: 2022
+
+**How it works:**\
+‣ upfgs uses smart contract technologies to ensure a provability fair environment.
 
 **Features:**\
 · Cool banner.\
