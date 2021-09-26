@@ -12,7 +12,8 @@ Problems:\
 · Still relies on the Web3 API.\
 · Not functioning.\
 · Low support (python cli).\
-· Unencrypted keys.
+· Unencrypted keys.\
+· Inefficient code.
 
 
 Estimated finish date: 2022
