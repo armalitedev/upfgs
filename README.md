@@ -8,7 +8,11 @@
 **How it works:**\
 ‣ upfgs uses smart contract technologies to ensure a provability fair environment.
 
-**Problems:**\
+**Features:**\
+· Cool banner.
+· Creates a config.json file that stores credentials.
+
+**Problems to be fixed:**\
 · Still relies on the Web3 API.\
 · Not functioning.\
 · Low support (Python CLI).\
