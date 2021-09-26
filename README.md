@@ -5,5 +5,5 @@
             \__,_| .__/|_|  \__, |___/            Universal Provability-Fair Gambling System
                  |_|        |___/     
                  
-How it works:
+How it works:\
 ⇒ upfgs uses smart contract technologies to ensure that a a provability fair environment.
