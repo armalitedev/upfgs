@@ -11,7 +11,8 @@ How it works:\
 Problems:\
 · Still relies on the Web3 API.\
 · Not functioning.\
-· Low support (python cli).
+· Low support (python cli).\
+· Unencrypted keys.
 
 
 Estimated finish date: 2022
