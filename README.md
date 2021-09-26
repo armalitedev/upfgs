@@ -9,7 +9,7 @@
 ‣ upfgs uses smart contract technologies to ensure a provability fair environment.
 
 **Features:**\
-· Cool banner.
+· Cool banner.\
 · Creates a config.json file that stores credentials.
 
 **Problems to be fixed:**\
