@@ -16,7 +16,8 @@
 **Stuff to be added:**\
 · Defi casino interface.\
 · Restricting interactions to Local machine <=> Smart contracts.
-
+· Bash support.
+· OS-specific optimizations. 
 
 **Problems to be fixed:**\
 · Still relies on the Web3 API.\
