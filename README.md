@@ -29,7 +29,7 @@
 · Spaghetti code.
 
 **Contributors:**\
-none
+_none_
 
 Major contributors will also be added to a (yet to be made) credits page.\
 Estimated finish date: 2022
