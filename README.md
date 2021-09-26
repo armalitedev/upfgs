@@ -8,4 +8,8 @@
 How it works:\
 ⇒ upfgs uses smart contract technologies to ensure that a a provability fair environment.
 
+Problems and features to be added:
+·
+·
+
 Estimated finish date: 2022
