@@ -10,8 +10,8 @@ How it works:\
 
 Problems:\
 · Still relies on the Web3 API.\
-· Not functioning\
-· Low support (python cli)
+· Not functioning.\
+· Low support (python cli).
 
 
 Estimated finish date: 2022
