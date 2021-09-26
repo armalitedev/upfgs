@@ -11,7 +11,7 @@
 **Problems:**\
 · Still relies on the Web3 API.\
 · Not functioning.\
-· Low support (python cli).\
+· Low support (Python CLI).\
 · Unencrypted keys.\
 · Spaghetti code.
 
