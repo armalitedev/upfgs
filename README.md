@@ -13,7 +13,7 @@ Problems:\
 · Not functioning.\
 · Low support (python cli).\
 · Unencrypted keys.\
-· Inefficient code.
+· Spaghetti code.
 
 
 Estimated finish date: 2022
