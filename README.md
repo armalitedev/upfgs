@@ -6,4 +6,4 @@
                  |_|        |___/     
                  
 How it works:
->> upfgs uses smart contract technologies to ensure that a a provability fair environment.
+⇒ upfgs uses smart contract technologies to ensure that a a provability fair environment.
