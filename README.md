@@ -28,7 +28,7 @@
 · Unencrypted keys.\
 · Spaghetti code.
 
-**It is highly advised to not fork or use for of this app as they
-may steal your credentials.**
+**It is highly advised to not use any fork of this app as they
+may steal your credentials.**\
 Major contributors will be added to a (yet to be made) credits page.\
 Estimated finish date: 2022
