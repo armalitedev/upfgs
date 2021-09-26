@@ -9,7 +9,7 @@ How it works:\
 ⇒ upfgs uses smart contract technologies to ensure that a a provability fair environment.
 
 Problems:\
-· Still relies on the Web3 API.
+· Still relies on the Web3 API.\
 · Not functioning
 
 Estimated finish date: 2022
